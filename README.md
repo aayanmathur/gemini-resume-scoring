@@ -47,7 +47,7 @@ This AI-powered platform helps job seekers optimize their resumes for Applicant 
 
 ---
 
-## 🎨 UI/UX Features
+## UI/UX Features
 
 - **Interactive Scoring:** Visual ATS compliance meter with color coding
 - **Animated Feedback:** Loading states and smooth transitions
